@@ -9,7 +9,7 @@ Tested up to: 3.1
 Stable tag: 0.4.1
 
 Adds option in the admin panel for making your blog (including rss feeds and uploaded files) private.
-
+This is a fork of the Registered Users Only Plugin. Redirects all non-logged in users to your login form. This plugin is a combination and upgrade of two plugins Private WP Suite and Intranet Limits access
 == Description ==
 
 Gives the following options for making the Wordpress installation more private:
